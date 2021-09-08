@@ -8,7 +8,7 @@ Write a program in main.py that prints the same notes from the previous lesson u
 
 # Example Output
 
-After you have written your code, you should run your program and it should print the following:
+After you have written your code, you should run your program, and it should print the following:
 
 ```
 Day 1 - Python Print Function
