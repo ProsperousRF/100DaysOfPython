@@ -15,9 +15,6 @@ with open("weather_data.csv") as data_file:
             temperatures.append(int(row[1]))
     print(temperatures)
 
-# Using the pandas library
-import pandas
-
 data = pandas.read_csv("weather_data.csv")
 print(type(data))
 print(type(data["temp"]))
